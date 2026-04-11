@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/GyrodosRobotics/26Doc57-GyrodosRobotics-Repo/raw/9fe3f917eb2502e8cde8e8454340d48af9c0934f/docs/gyrodos-fulllogo.png" alt="Gyrodos Robotics Logo" width=300"/>
+  <img src="https://github.com/GyrodosRobotics/26Doc57-GyrodosRobotics-Repo/raw/9fe3f917eb2502e8cde8e8454340d48af9c0934f/docs/gyrodos-fulllogo.png" alt="Gyrodos Robotics Logo" width="300"/>
 </p>
 
 
