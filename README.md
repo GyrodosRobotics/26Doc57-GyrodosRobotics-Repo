@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/GyrodosRobotics/26Doc57-GyrodosRobotics-Repo/raw/9fe3f917eb2502e8cde8e8454340d48af9c0934f/docs/gyrodos-fulllogo.png" alt="Gyrodos Robotics Logo" width="300"/>
+  <img src="https://github.com/GyrodosRobotics/26Doc57-GyrodosRobotics-Repo/raw/9fe3f917eb2502e8cde8e8454340d48af9c0934f/docs/gyrodos-fulllogo.png" alt="Gyrodos Robotics Logo" width=300"/>
 </p>
 
 
@@ -67,7 +67,7 @@ Features a precomputed 6×8 pseudo-inverse thruster mixing matrix
 for full 6-DOF control, PID autostabilisation, and the False Swipe 
 power management system.
 
-→ [View LUCARIO Code](./267X-LUCARIO/)
+→ [View LUCARIO Code](https://github.com/GyrodosRobotics/26Doc57-GyrodosRobotics-Repo/tree/main/Gyrodos%20G2.2/267X-LUCARIO)
 
 ### Dragon Claw (263X)
 Dual two-axis gripper system with left and right claws using 
@@ -75,7 +75,7 @@ different drive modes to imitate arm and wrist movement.
 60kg IP68 waterproof servo and NEMA 17 stepper with worm gear 
 adaptor. Compatible with the Grass Grip friction booster.
 
-→ [View CAD Files](./223X-Gyrodos%20ROV/26Mec34-Palkia/)
+→ [View CAD Files](https://github.com/GyrodosRobotics/26Doc57-GyrodosRobotics-Repo/tree/main/Gyrodos%20G2.2/223X-Gyrodos%20ROV/26Mec34-Palkia)
 
 ### Grass Grip (223X)
 Passive biomimetic extension that distributes clamping force across 
@@ -84,7 +84,7 @@ Inspired by 3D printed grass and the principles behind SpiRob
 soft robotics research. Clips onto Dragon Claw in 15 seconds 
 without tools.
 
-→ [View STL Files](./223X-Gyrodos%20ROV/26Mec34-Palkia/)
+→ [View STL Files](https://github.com/GyrodosRobotics/26Doc57-GyrodosRobotics-Repo/tree/main/Gyrodos%20G2.2/223X-Gyrodos%20ROV/26Mec34-Palkia)
 
 ### Crab Detection (261X)
 YOLOv11 model trained on 419 annotated images to identify 
