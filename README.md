@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/sitesv/APaQ0SRGUTcXFoObJ822O-rehzf235XZQbtksskgaYoR28_5E_8it9J1NcuY7Y6HsTtDqkzXokqbYYDE_u6kC_3m38wdG7-JejCVfpkl5puK1pSEvM3HbFNk7SL8gmFc7SckFLYVKP9JooC_Vabso44mC73E_6lG6tqI1ovpMLB6ITUSzyDq_9YSmhp1=w16383" alt="Gyrodos Robotics Logo" width=300"/>
+  <img src="https://github.com/GyrodosRobotics/26Doc57-GyrodosRobotics-Repo/raw/9fe3f917eb2502e8cde8e8454340d48af9c0934f/docs/gyrodos-fulllogo.png" alt="Gyrodos Robotics Logo" width=300"/>
 </p>
+
 
 <h1 align="center">Gyrodos Robotics</h1>
 <h3 align="center">La Salle College, Hong Kong • Est. 2024</h3>
