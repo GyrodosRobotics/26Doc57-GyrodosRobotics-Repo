@@ -137,7 +137,7 @@ Mitchell Au (HR) · Henry Lau (Club Chairman)
 
 **Mentors:** Rex · Jimmy · Cloof · Max
 
-**Teacher Advisor:** Mr Terry Lam
+**Teacher Advisor:** Mr Terry Lam · Mr Gary Ho · Mr Timothy Goh · Mr Jonathan Sze
 
 **Full team roster:** See Technical Documentation p.4
 
