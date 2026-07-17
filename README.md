@@ -40,7 +40,7 @@ the underwater robotics community.
 ## Our Vehicles
 
 ### ROV Palkia (26Mec34)
-Third-generation Gyrodos-class ROV. CNC-machined 6061T5 
+Second-generation Gyrodos flagship ROV. CNC-machined 6061T5 
 aluminium frame, dual two-axis Dragon Claw grippers, 
 8-camera Compound Eye array with stereo vision and YOLOv11 
 invasive species detection, fully_vectored8 thruster layout 
@@ -100,8 +100,10 @@ wide-angle AHD cameras.
 
 | Year | Competition | Result |
 |---|---|---|
-| 2025 | MATE ROV Hong Kong Regional | 9th |
-| 2026 | MATE ROV Hong Kong Regional | TBD |
+| 2025 | MATE ROV Ranger Hong Kong Regional | 9th |
+| 2026 | MATE ROV Ranger Hong Kong Regional | 6th |
+| 2026 | MATE ROV Ranger Hong Kong Regional | Best Team Spirit |
+| 2026 | MATE ROV Scout Hong Kong Regional | 2nd |
 
 ---
 
